@@ -10,7 +10,7 @@ You have the right to use our service as long as you don't use it in any way tha
 We are not responsible for content generated via our bot by users that is violating [Discords ToS](https://discord.com/terms) in any way.
 
 
-## Privacy Policy 
+## **Privacy Policy**
 
 #References
 In this whole document when being referred as "we" or "us", Rectangle Development as a whole is meant with everybody responsible.
