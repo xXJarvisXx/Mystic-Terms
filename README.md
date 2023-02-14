@@ -26,4 +26,4 @@ We DO NOT connect this data to you as a user. This data is only used to optimize
 None of your data is being distributed to anybody else, it is only used in internal processes to improve user experience and services.
 
 #Deletion of data
-All user-related data can be deleted by us on request in the support server linked in useful links section.
+All user-related data can be deleted by us on request in the [support server](https://discord.gg/gfaCdxG35m).
